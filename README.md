@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SUDESH GOWDA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Tailwind,GSAP**
+- 🌱 I’m currently learning **Redux,Nextjs**
 
 - 🤝 I’m looking for help with [React](https://krisumovies.netlify.com)
 
