@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm SUDESH GOWDA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Redux,Nextjs**
+- 🌱 I’m currently learning **Nextjs**
 
 - 🤝 I’m looking for help with [React](https://krisumovies.netlify.com)
 
 - 👨‍💻 All of my projects are available at [https://sudeshresume.netlify.com](https://sudeshresume.netlify.com)
 
-- 💬 Ask me about **react,gsap,Webtech,node,express**
+- 💬 Ask me about **react,gsap,Webtech,node,express,redux toolkit**
 
 - 📫 How to reach me **sudeshmd1997@gmail.com**
 
