@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Nextjs**
 
-- 🤝 I’m looking for help with [React](https://krisumovies.netlify.com)
+- 🤝 I’m looking for help with [React](https://krisumovies.netlify.app)
 
-- 👨‍💻 All of my projects are available at [https://sudeshresume.netlify.com](https://sudeshresume.netlify.com)
+- 👨‍💻 All of my projects are available at [https://sudeshresume.netlify.com](https://sudeshresume.netlify.app)
 
 - 💬 Ask me about **react,gsap,Webtech,node,express,redux toolkit**
 
