@@ -10,6 +10,7 @@
 - 💬 Ask me about **react,gsap,Webtech,node,express,redux toolkit**
 
 - 📫 How to reach me **sudeshmd1997@gmail.com**
+- contact me **8123265859**
 
 - ⚡ Fun fact **You find it 😉**
 
